@@ -1,0 +1,8 @@
+site_name: "test-react-ssr-1"
+site_description: "testing ssr component template"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
